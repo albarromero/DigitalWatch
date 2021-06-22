@@ -1,0 +1,36 @@
+body {
+    background-color: antiquewhite;
+}
+
+#watch {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    text-shadow: 0px 0px 2px black;
+    color:aliceblue
+}
+
+.watch-container {
+    background-color: rgb(162, 97, 192);
+    padding: 25px;
+    max-width: 400px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 5%;
+    border: 1px solid white;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.384);
+    
+}
+
+#date {
+    letter-spacing: 5px;
+    font-size: 14px;
+}
+
+#hour {
+    letter-spacing: 5px;
+}
+
+.animation {
+    margin-top: 6%;
+}
