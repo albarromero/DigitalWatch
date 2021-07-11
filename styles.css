@@ -6,11 +6,11 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 50px;
     text-shadow: 0px 0px 2px black;
-    color:aliceblue
+    color:aliceblue;
 }
 
 .watch-container {
-    background-color: rgb(162, 97, 192);
+    background-color: rgb(191, 120, 224);
     padding: 25px;
     max-width: 400px;
     text-align: center;
@@ -19,6 +19,7 @@ body {
     margin-top: 5%;
     border: 1px solid white;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.384);
+    transition: all 1s;
     
 }
 
@@ -33,4 +34,5 @@ body {
 
 .animation {
     margin-top: 6%;
+    background-color: rgb(119, 162, 255);
 }
